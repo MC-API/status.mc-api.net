@@ -7,7 +7,7 @@ I use this to show player counts of popular servers as well as user-submitted se
 Setup
 -------------
 
-You will need a working (MongoDB)(http://mongodb.org) installation. You will also need to have basic knowledge with both Mongo and PHP.
+You will need a working [MongoDB](http://mongodb.org) installation. You will also need to have basic knowledge with both Mongo and PHP.
 
 To setup you will need to edit the ```status.api.php``` file and input your mongo connection details.
 
