@@ -1,0 +1,19 @@
+RewriteEngine On
+
+RewriteRule ^/?$ /views/home.php
+RewriteRule ^trending/?$ /views/home.php?trends
+RewriteRule ^([0-9]+)/?$ /views/home.php?viewPage=$1
+RewriteRule ^about/?$ /views/about.php
+
+RewriteRule ^api/pings.json /core/api/pings.php
+RewriteRule ^api/banner/cache /core/api/cache.php
+RewriteRule ^api/trends /core/api/trends.php
+RewriteRule ^api/table/([A-Za-z0-9_-]+)/?$ /core/api/table.php?table=$1&page=1
+RewriteRule ^api/table/([A-Za-z0-9_-]+)/([0-9-]+)/?$ /core/api/table.php?table=$1&page=$2
+
+RewriteRule ^app.css /core/css/app.css
+RewriteRule ^app.js /core/js/app.js
+RewriteRule ^lib/canvas.js /core/js/canvas.js
+
+ErrorDocument 403 /views/home.php?404
+ErrorDocument 404 /views/home.php?404
