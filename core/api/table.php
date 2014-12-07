@@ -19,7 +19,7 @@ $invalidPage = $page > $pageCount || $page < 1;
 		<td>Status</td>
 	</tr>
 	<?php
-		foreach ($query as $row) {
+		foreach($query as $row) {
 			echo '<tr>';
 			echo '<td>' . $row["name"] . '</td>';
 			echo '<td>' . $row["connectionIP"] . '</td>';
