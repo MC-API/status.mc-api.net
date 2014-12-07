@@ -1,0 +1,217 @@
+/* 0 */
+{
+    "name" : "Kiwi",
+    "ip" : "a.kiwidev.co:25566",
+    "connectionIP" : "pvp.kiwi",
+    "website" : "https://pvp.kiwi",
+    "motd" : "",
+    "online" : true,
+    "players" : 0,
+    "maxPlayers" : 500
+}
+
+/* 1 */
+{
+    "name" : "Overcast Network",
+    "ip" : "us.oc.tc",
+    "connectionIP" : "us.oc.tc",
+    "website" : "https://oc.tc",
+    "motd" : "§a╔══════ §8§o[§9§oUS§8§o] §e§lOvercast §6§lNetwork §a══════╗\n╚════ §bNow supporting both 1.7 §b§land §b1.8! §a════╝",
+    "online" : true,
+    "players" : 739,
+    "maxPlayers" : 3000
+}
+
+/* 2 */
+{
+    "name" : "Hypixel",
+    "ip" : "mc.hypixel.net",
+    "connectionIP" : "mc.hypixel.net",
+    "website" : "http://hypixel.net",
+    "motd" : "§aHypixel Network §6| §b mc.hypixel.net\n§6§lThe Delicious Update§e§l Phase 1",
+    "online" : true,
+    "players" : 4793,
+    "maxPlayers" : 17001
+}
+
+/* 3 */
+{
+    "name" : "HiveMC",
+    "ip" : "eu.hivemc.com",
+    "connectionIP" : "eu.hivemc.com",
+    "website" : "http://hivemc.com",
+    "motd" : "§3HiveMC.com §8| §aEU §8| §6FUN §aGametypes\n§r§3❄§b☃ §bCHRISTMAS §aFUN §3Pt 1 §8» §eBP, Splegg, CAI + More! §b☃§3❄",
+    "online" : true,
+    "players" : 3605,
+    "maxPlayers" : 20000
+}
+
+/* 4 */
+{
+    "name" : "MultiCube",
+    "ip" : "play.multicu.be",
+    "connectionIP" : "play.multicu.be",
+    "website" : "http://multicube.net",
+    "motd" : "§b§lMultiCube §6§lBeta §8| §7MultiCube.net\n§2Advent Calendar: §cwww.multicu.be/advent",
+    "online" : true,
+    "players" : 209,
+    "maxPlayers" : 4500
+}
+
+/* 5 */
+{
+    "name" : "Mineplex",
+    "ip" : "eu.mineplex.com",
+    "connectionIP" : "mineplex.com",
+    "website" : "http://mineplex.com",
+    "motd" : "",
+    "online" : true,
+    "players" : 16628,
+    "maxPlayers" : 16629
+}
+
+/* 6 */
+{
+    "name" : "Wynncraft",
+    "ip" : "play.wynncraft.com",
+    "connectionIP" : "play.wynncraft.com",
+    "website" : "https://wynncraft.com",
+    "motd" : "§2play.§a§lWynn§a§lcraft§2.com, §6The Minecraft MMORPG§f   §8v1.12.2\n§8>> §4[§c!§4] §b§lWynnter Update §fcoming this month!",
+    "online" : true,
+    "players" : 612,
+    "maxPlayers" : 1696
+}
+
+/* 7 */
+{
+    "name" : "MCPVP",
+    "ip" : "mcpvp.com",
+    "connectionIP" : "hub.mcpvp.com",
+    "website" : "http://mcpvp.com",
+    "motd" : "§c[§aMCPVP§c]§b Practice 'souping' on KitPVP!\n§eVisit §9www.mcpvp.com",
+    "online" : true,
+    "players" : 935,
+    "maxPlayers" : 10000
+}
+
+/* 8 */
+{
+    "name" : "The Chunk",
+    "ip" : "hub.thechunk.net",
+    "connectionIP" : "hub.thechunk.net",
+    "website" : "https://thechunk.net",
+    "motd" : "§c§lThe Chunk Network §r// §b§ohub.thechunk.net\n§eNew updates for §a§lMinerWare",
+    "online" : true,
+    "players" : 238,
+    "maxPlayers" : 2000
+}
+
+/* 9 */
+{
+    "name" : "The Nexus MC",
+    "ip" : "hub.thenexusmc.net",
+    "connectionIP" : "hub.thenexusmc.net",
+    "website" : "http://thenexusmc.net",
+    "motd" : "",
+    "online" : true,
+    "players" : 0,
+    "maxPlayers" : 0
+}
+
+/* 10 */
+{
+    "name" : "BeastCraft",
+    "ip" : "119.252.189.19",
+    "connectionIP" : "skyblock.beastcraft.net",
+    "website" : "http://beastcraft.net",
+    "motd" : "",
+    "online" : true,
+    "players" : 11,
+    "maxPlayers" : 100
+}
+
+/* 11 */
+{
+    "name" : "The Archon",
+    "ip" : "play.thearchon.net",
+    "connectionIP" : "play.thearchon.net",
+    "website" : "http://forum.thearchon.net",
+    "motd" : "§c§lTheArchon §8» §6play.thearchon.net                   §3Follow us on Twitter §b@TheArchon",
+    "online" : true,
+    "players" : 967,
+    "maxPlayers" : 2500
+}
+
+/* 12 */
+{
+    "name" : "AEM Network",
+    "ip" : "play.aemservers.net",
+    "connectionIP" : "play.aemservers.net",
+    "website" : "https://aemservers.net",
+    "motd" : "§aBe sure to §c/vote §afor §3§lAEM §4§lNetwork!\n     §6Beta Server:  SpaceBlock!",
+    "online" : true,
+    "players" : 131,
+    "maxPlayers" : 1000
+}
+
+/* 13 */
+{
+    "name" : "BeastCraft",
+    "ip" : "mc.beastcraft.net",
+    "connectionIP" : "mc.beastcraft.net",
+    "website" : "http://beastcraft.net",
+    "motd" : "§5§lBeastCraft §f| §dmc.BeastCraft.net\n§a§lNews:§r§f Check out the new site!",
+    "online" : true,
+    "players" : 7,
+    "maxPlayers" : 500
+}
+
+/* 14 */
+{
+    "name" : "Cyclone Network",
+    "ip" : "mc.cyclonenetwork.org",
+    "connectionIP" : "mc.cyclonenetwork.org",
+    "website" : "http://cyclonenetwork.org",
+    "motd" : "",
+    "online" : true,
+    "players" : 151,
+    "maxPlayers" : 500
+}
+
+/* 15 */
+{
+    "name" : "Shotbow",
+    "ip" : "us.shotbow.net",
+    "connectionIP" : "us.shotbow.net",
+    "website" : "http://shotbow.net",
+    "motd" : "§cMineZ 2\n§eThere's No Place Like Home Update",
+    "online" : true,
+    "players" : 1747,
+    "maxPlayers" : 10000
+}
+
+/* 16 */
+{
+    "name" : "MCGamer",
+    "ip" : "us.mcgamer.net",
+    "connectionIP" : "us.mcgamer.net",
+    "website" : "http://mcgamer.net",
+    "motd" : "§7[§eMCGamer§7] §2§lv2 is here!",
+    "online" : true,
+    "players" : 669,
+    "maxPlayers" : 10000
+}
+
+/* 17 */
+{
+    "name" : "Arkham Network",
+    "ip" : "mc.arkhamnetwork.org",
+    "connectionIP" : "mc.arkhamnetwork.org",
+    "website" : "https://arkhamnetwork.org",
+    "motd" : {
+        "text" : "            §f§l§o▬§a§l$§f§l▬    §e§l§oArkham§b§l§oNetwork    §f§l§o▬§a§l$§f§l▬ §r                                  §e§l(§n!§b§l)§f§l §0[§f§k?§0[§c§lJ§6§lO§a§lK§b§lE§d§lR§0]§f§k?§0]§r §e§l(§n!§b§l)"
+    },
+    "online" : true,
+    "players" : 4089,
+    "maxPlayers" : 12000
+}
