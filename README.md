@@ -11,4 +11,6 @@ You will need a working [MongoDB](http://mongodb.org) installation. You will als
 
 To setup you will need to edit the ```status.api.php``` file and input your mongo connection details.
 
-You will need to create a collection called tracker_servers and add the servers you want to track (see [this file](https://github.com/njb-said/status.mc-api.net/blob/master/mongo/tracker_servers.json) for an example list). You will also need a cron job running at your chosen interval to ping the servers and update the database.
+You will need to create a collection called ```tracker_servers``` and add the servers you want to track (see [this file](https://github.com/njb-said/status.mc-api.net/blob/master/mongo/tracker_servers.json) for an example list).
+
+You will also need a cron job running at your chosen interval to ping the servers and update the database.
