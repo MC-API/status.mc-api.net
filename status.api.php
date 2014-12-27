@@ -25,7 +25,7 @@ function head(){?>
 
 function foot() { ?>
 <footer style="padding-top: 18px;text-align:center;">
-    <div class="container text-muted"><p style="font-size:130%">&copy; <a target="_blank" href="//imnjb.me">njb_said</a> 2014 &middot; <b>Version:</b> alpha-1.3</p><p>Find out <a href="/about">how this works</a>..</div>
+    <div class="container text-muted"><p style="font-size:130%">&copy; <a target="_blank" href="//imnjb.me">njb_said</a> <?php echo date("Y"); ?> &middot; <b>Version:</b> alpha-1.3</p><p>Find out <a href="/about">how this works</a>..</div>
 </footer>
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <?php }
