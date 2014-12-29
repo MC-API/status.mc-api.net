@@ -2,12 +2,12 @@ RewriteEngine On
 
 RewriteRule ^/?$                                     /views/home.php                        [L,NC]
 RewriteRule ^trending/?$                             /views/home.php?trends                 [L,NC]
+RewriteRule ^trending/rawdata/?$                     /core/api/trends_data.php              [L,NC]
 RewriteRule ^([0-9]+)/?$                             /views/home.php?viewPage=$1            [L,NC]
 RewriteRule ^about/?$                                /views/about.php                       [L,NC]
 
 RewriteRule ^api/pings.json                          /core/api/pings.php                    [L,NC]
 RewriteRule ^api/banner/cache                        /core/api/cache.php                    [L,NC]
-RewriteRule ^api/trends                              /core/api/trends.php                   
 RewriteRule ^api/table/([A-Za-z0-9_-]+)/?$           /core/api/table.php?table=$1&page=1    [L,NC]
 RewriteRule ^api/table/([A-Za-z0-9_-]+)/([0-9-]+)/?$ /core/api/table.php?table=$1&page=$2   [L,NC]
 
