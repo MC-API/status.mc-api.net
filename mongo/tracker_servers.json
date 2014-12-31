@@ -118,18 +118,6 @@
     "maxPlayers" : 0
 }
 
-/* 10 */
-{
-    "name" : "BeastCraft",
-    "ip" : "119.252.189.19",
-    "connectionIP" : "skyblock.beastcraft.net",
-    "website" : "http://beastcraft.net",
-    "motd" : "",
-    "online" : true,
-    "players" : 11,
-    "maxPlayers" : 100
-}
-
 /* 11 */
 {
     "name" : "The Archon",
