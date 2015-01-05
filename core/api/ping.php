@@ -24,9 +24,15 @@ foreach($collection->find() as $row) {
     } else {
         $ping = file_get_contents("http://mc-api.net/v3/server/info/" . $ip);// picks closest server to us
         $ping = json_decode($ping, true);
-        $status = $ping["status"];
-        $players = $ping["players"]["online"];
-        $maxPlayers = $ping["players"]["max"];
+		if(isset($ping["error"])) {
+			$status = false;
+			$players = 0;
+			$maxPlayers = 0;
+		} else {
+			$status = true;
+			$players = $ping["players"]["online"];
+			$maxPlayers = $ping["players"]["max"];
+		}
         $proto = "unknown";
         $version = "unknown";
         $motd = "";
