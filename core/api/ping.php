@@ -22,7 +22,7 @@ foreach($collection->find() as $row) {
         $ping = $ping["ping"];
         $proto = $ping["protocol"];
     } else {
-        $ping = file_get_contents("http://mc-api.net/server/players?server=" . $ip);
+        $ping = file_get_contents("http://mc-api.net/v3/server/info/" . $ip);// picks closest server to us
         $ping = json_decode($ping, true);
         $status = $ping["status"];
         $players = $ping["players"]["online"];
